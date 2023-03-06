@@ -5,13 +5,17 @@ Para el análisis de datos hemos usado un dataset que contiene información de l
 Link a la página fr kaggle del dataset [aquí](https://www.kaggle.com/datasets/dilwong/flightprices).
 El dataset ofrece gran variedad de datos acerca de cada vuelo pero para sacar conclusiones interesantes nos hemos enfocado en los siguientes:
 
+- searchDate (Fecha de la búsqueda del vuelo)
+- flightDate (Fecha de vuelo)
 - startingAirport (Aeropuerto origen)
 - destinationAirport (Aeropuerto destino)
-- flightDate (Fecha de vuelo)
-- totalTravelDistance (Distancia recorrida en el vuelo contando escalas)
-- totalFare (Precio del vuelo con impuestos añadidos)
-- segmentsAirlineCode (Código de la aerolínea encargada del vuelo)
+- travelDuration (Duración del viaje en horas y minutos)
+- isBasicEconomy (Booleano que indica que el precio del vuelo es asequible)
 - seatsRemaining (Número de asientos libres en los vuelos)
+- totalFare (Precio del vuelo con impuestos añadidos)
+- totalTravelDistance (Distancia recorrida en el vuelo contando escalas)
+- segmentsAirlineName (Nombre de la aerolínea encargada del vuelo)
+- segmentsAirlineCode (Código de la aerolínea encargada del vuelo)
 
 Hemos utilizado como complemento otro archivo, 'USA_Covid_Data.csv', para poder relacionar el número de vuelos con el número de casos positivos oficiales por estado. Para este caso en concreto usamos el campo 'destinationAirport' de nuestro dataset original y los campos 'State', estado donde se observa la muestra, 'Active', casos positivos oficiales, y el campo 'Population' que representa el censo total del estado.
 
