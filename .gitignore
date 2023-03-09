@@ -1,0 +1,4 @@
+#ignorar los archivos en /Data
+/Data
+#ignorar todos los archivos .zip
+*.zip
