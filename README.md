@@ -71,3 +71,13 @@ $ pip install matplotlib
 
 # Página web
 * [Página web](https://tripanalistycs.odoo.com/@/)
+
+Resultados para mineria:
+- Numero de vuelos por cada par de aeropuertos (origen y destino) -> Hecho 
+- Aerolineas más solicitadas
+- Cuantos vuelos hay de economia basica y cuantos no por cada par de aeropuertos -> (Hecho)
+- Relacion entre los viajes que más tardan y cuantas personas los eligen
+- Relacion entre los viajes más caros y cuantas personas los eligen
+- Numero de vuelos buscados en x mes
+- Relacion entre vuelos (aeropuertos origen y destino) con la aerolinea que se encarga de dicho vuelo
+- Aerolineas que ofrecen vuelos más baratos
