@@ -78,6 +78,6 @@ Resultados para mineria:
 - Cuantos vuelos hay de economia basica y cuantos no por cada par de aeropuertos -> (Hecho)
 - Relacion entre los viajes que más tardan y cuantas personas los eligen
 - Relacion entre los viajes más caros y cuantas personas los eligen
-- Numero de vuelos buscados en x mes
+- Numero de vuelos buscados en x mes -> Hecho
 - Relacion entre vuelos (aeropuertos origen y destino) con la aerolinea que se encarga de dicho vuelo
 - Aerolineas que ofrecen vuelos más baratos
