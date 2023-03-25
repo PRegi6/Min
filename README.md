@@ -75,7 +75,7 @@ $ pip install matplotlib
 Resultados para mineria:
 - Numero de vuelos por cada par de aeropuertos (origen y destino) -> Hecho 
 - Aerolineas más solicitadas
-- Cuantos vuelos hay de economia basica y cuantos no por cada par de aeropuertos -> (Hecho)
+- Cuantos vuelos hay de economia basica y cuantos no por cada par de aeropuertos
 - Relacion entre los viajes que más tardan y cuantas personas los eligen
 - Relacion entre los viajes más caros y cuantas personas los eligen
 - Numero de vuelos buscados en x mes -> Hecho
